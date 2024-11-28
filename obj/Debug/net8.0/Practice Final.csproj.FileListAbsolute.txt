@@ -1,0 +1,18 @@
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.csproj.AssemblyReference.cache
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.AssemblyInfoInputs.cache
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.AssemblyInfo.cs
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.csproj.CoreCompileInputs.cache
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final.exe
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final.deps.json
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final.runtimeconfig.json
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final.dll
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final.pdb
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final Library.dll
+C:\Users\Juice Машина\source\repos\Practice Final\bin\Debug\net8.0\Practice Final Library.pdb
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.csproj.CopyComplete
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.dll
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\refint\Practice Final.dll
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.pdb
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\Practice Final.genruntimeconfig.cache
+C:\Users\Juice Машина\source\repos\Practice Final\obj\Debug\net8.0\ref\Practice Final.dll
